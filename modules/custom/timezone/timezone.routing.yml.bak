@@ -10,6 +10,6 @@ timezone.admin_settings:
   path: '/admin/config/timezone/configuration'
   defaults:
     _form: '\Drupal\timezone\Form\ModuleConfigurationForm'
-    _title: 'custom configuration for v2soft'
+    _title: 'custom configuration for TimeZone'
   requirements:
     _permission: 'administer site configuration'
